@@ -428,16 +428,57 @@ npm run build
 
 ### 13.1 架构与设计图
 
-- 物理拓扑图（待插入）
-- 系统功能结构图（待插入）
-- 关键实体关系图（待插入）
+#### 物理拓扑图
 
-### 13.2 功能界面图
+![物理拓扑图](docs/images/physical-topology.png)
 
-- 用户登录/注册界面（待插入）
-- 招聘推荐界面（待插入）
-- 企业宣讲与岗位列表界面（待插入）
-- 管理端审核与治理界面（待插入）
+#### 系统结构功能图
+
+![系统结构功能图](docs/images/system-function-structure.png)
+
+#### 总体 E-R 图
+
+![总体E-R图](docs/images/er-overview.png)
+
+#### 企业信息实体属性图
+
+![企业信息实体属性图](docs/images/entity-enterprise.png)
+
+### 13.2 第五章系统实现界面图
+
+#### 5.1 用户登录界面
+
+![用户登录界面](docs/images/ch5-user-login.png)
+
+#### 5.1 用户注册界面
+
+![用户注册界面](docs/images/ch5-user-register.png)
+
+#### 5.1 招聘信息推荐区域
+
+![招聘信息推荐区域](docs/images/ch5-recommendation.png)
+
+#### 5.1 企业宣讲展示区域
+
+![企业宣讲展示区域](docs/images/ch5-xuanjiang-display.png)
+
+#### 5.2 后台登录界面
+
+![后台登录界面](docs/images/ch5-admin-login.png)
+
+#### 5.2 后台招聘信息管理界面
+
+![后台招聘信息管理界面](docs/images/ch5-admin-job-manage.png)
+
+### 13.3 业务流程图补充
+
+#### 用户注册登录流程图
+
+![用户注册登录流程图](docs/images/login-register-flow.png)
+
+#### 添加求职信息流程图
+
+![添加求职信息流程图](docs/images/job-apply-flow.png)
 
 ---
 
