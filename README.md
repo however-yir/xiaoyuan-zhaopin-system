@@ -268,7 +268,7 @@ flowchart LR
 ## 9. 项目结构
 
 ```text
-xiaoyuan-zhaopin-system/
+campus-recruitment-recommendation-system/
 ├── db/
 │   └── hire.sql
 ├── src/main/java/com/
@@ -302,8 +302,8 @@ xiaoyuan-zhaopin-system/
 ### 10.2 克隆代码
 
 ```bash
-git clone https://github.com/however-yir/xiaoyuan-zhaopin-system.git
-cd xiaoyuan-zhaopin-system
+git clone https://github.com/however-yir/campus-recruitment-recommendation-system.git
+cd campus-recruitment-recommendation-system
 ```
 
 ### 10.3 初始化数据库
