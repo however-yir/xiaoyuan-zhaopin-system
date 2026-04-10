@@ -22,3 +22,12 @@
 .env.local
 .env.*.local
 !.env.example
+
+# --- Baseline Ignore Rules ---
+__pycache__/
+*.py[cod]
+.env.*
+node_modules/
+dist/
+build/
+target/
