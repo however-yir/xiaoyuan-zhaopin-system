@@ -1,5 +1,7 @@
 # Campus Recruitment Recommendation System - 校园招聘推荐系统 | Campus Job Matching Platform
 
+[![CI](https://github.com/however-yir/campus-recruitment-recommendation-system/actions/workflows/ci.yml/badge.svg)](https://github.com/however-yir/campus-recruitment-recommendation-system/actions/workflows/ci.yml)
+
 🔥 A campus recruitment recommendation system based on Spring Boot, Vue2, and MySQL.  
 🚀 Built with user-based collaborative filtering, cold-start fallback, and multi-role recruitment workflows.  
 ⭐ Supports job matching, resume delivery, enterprise management, admin operations, and AI career Q&A.
